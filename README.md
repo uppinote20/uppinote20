@@ -4,10 +4,11 @@ Data Scientist at semiconductor company | Indie Hacker
 
 I hate doing the same thing twice — so I automate everything.
 
-### What I'm building
-
-- [obsidian-auto-note-importer](https://github.com/uppinote20/obsidian-auto-note-importer) — Sync external databases to Obsidian
-- [claude-dashboard](https://github.com/uppinote20/claude-dashboard) — Status line plugin for Claude Code
+<p>
+  <a href="mailto:uppinote@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.threads.net/@uppinote20"><img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white"/></a>
+  <a href="https://blog.uppinote.dev"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white"/></a>
+</p>
 
 ### Currently focusing on
 
