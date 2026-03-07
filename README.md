@@ -37,5 +37,8 @@ AI Engineer at a semiconductor company by day, indie hacker by night. Started as
 
 <p>
   <img align="center" src="./profile/stats.svg" />
+  <img align="center" src="./profile/top-langs.svg" />
+</p>
+<p>
   <img align="center" src="./profile/streak.svg" />
 </p>
