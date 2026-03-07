@@ -10,7 +10,7 @@ root = pathlib.Path(__file__).parent.resolve()
 TOKEN = os.environ.get("GH_TOKEN", "")
 TITLE_MAX_LEN = 25
 BLOG_RSS = "https://blog.uppinote.dev/rss/"
-EXCLUDE_RELEASES = {"n8n-nodes-fixed-sender-email", "clavis", "sprint", "shieldcheck"}
+EXCLUDE_RELEASES = {"n8n-nodes-fixed-sender-email"}
 
 
 def replace_chunk(content, marker, chunk):
@@ -43,7 +43,7 @@ def fetch_releases(token):
     releases = []
 
     for repo in user.get_repos(type="owner"):
-        if repo.fork or repo.name in EXCLUDE_RELEASES:
+        if repo.fork or repo.private or repo.name in EXCLUDE_RELEASES:
             continue
         try:
             for release in repo.get_releases():
