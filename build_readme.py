@@ -8,7 +8,7 @@ from github import Github
 root = pathlib.Path(__file__).parent.resolve()
 
 TOKEN = os.environ.get("GH_TOKEN", "")
-TITLE_MAX_LEN = 38
+TITLE_MAX_LEN = 25
 BLOG_RSS = "https://blog.uppinote.dev/rss/"
 
 
