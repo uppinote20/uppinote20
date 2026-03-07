@@ -23,12 +23,12 @@ AI Engineer at a semiconductor company by day, indie hacker by night. Started as
 **Recent Posts**
 
 <!-- blog starts -->
-• [Prisma N+1 쿼리 성능 문제 해결하기 (50% 속도 개선)](https://blog.uppinote.dev/prisma-n1-query-optimization/) - 2026-03-07<br>
-• [Prisma Decimal to Number 변환 시 silent..](https://blog.uppinote.dev/prisma-decimal-silent-number-coercion/) - 2026-03-06<br>
-• [Express 프록시 레이어에서 파일 다운로드 자동 암호화 구현하기](https://blog.uppinote.dev/express-proxy-layer-file-encryption/) - 2026-03-05<br>
-• [민감 데이터 접근 추적: Audit Logging 구현하기](https://blog.uppinote.dev/audit-logging-sensitive-data/) - 2026-03-04<br>
-• [Tailscale로 Oracle Cloud 서버 SSH 포트 완전..](https://blog.uppinote.dev/tailscale-oracle-cloud-ssh-security/) - 2026-03-03<br>
-• [Ghost 셀프 호스팅 블로그 TTFB 3.7초 → 0.4초: C..](https://blog.uppinote.dev/ghost-self-hosted-cloudflare-cache-speed-optimization/) - 2026-03-02
+• [Prisma N+1 쿼리 성능 문제 해결하..](https://blog.uppinote.dev/prisma-n1-query-optimization/) - 2026-03-07<br>
+• [Prisma Decimal to Numbe..](https://blog.uppinote.dev/prisma-decimal-silent-number-coercion/) - 2026-03-06<br>
+• [Express 프록시 레이어에서 파일 다운..](https://blog.uppinote.dev/express-proxy-layer-file-encryption/) - 2026-03-05<br>
+• [민감 데이터 접근 추적: Audit Log..](https://blog.uppinote.dev/audit-logging-sensitive-data/) - 2026-03-04<br>
+• [Tailscale로 Oracle Cloud..](https://blog.uppinote.dev/tailscale-oracle-cloud-ssh-security/) - 2026-03-03<br>
+• [Ghost 셀프 호스팅 블로그 TTFB 3..](https://blog.uppinote.dev/ghost-self-hosted-cloudflare-cache-speed-optimization/) - 2026-03-02
 <!-- blog ends -->
 
 </td>
