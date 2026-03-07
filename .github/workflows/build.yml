@@ -1,0 +1,55 @@
+name: Build README
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v4
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
+    - uses: actions/cache@v4
+      name: Configure pip caching
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+    - name: Install Python dependencies
+      run: |
+        python -m pip install --upgrade pip
+        python -m pip install -r requirements.txt
+    - name: Update README
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      run: python build_readme.py
+    - name: Generate stats card
+      uses: readme-tools/github-readme-stats-action@v1
+      with:
+        card: stats
+        options: username=uppinote20&show_icons=true&hide_border=true&include_all_commits=true
+        path: profile/stats.svg
+        token: ${{ secrets.GITHUB_TOKEN }}
+    - name: Generate streak card
+      uses: readme-tools/github-readme-stats-action@v1
+      with:
+        card: streak
+        options: user=uppinote20&hide_border=true
+        path: profile/streak.svg
+        token: ${{ secrets.GITHUB_TOKEN }}
+    - name: Commit and push if changed
+      run: |-
+        git diff
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "github-actions[bot]"
+        git add -A
+        git commit -m "chore: update README content" || exit 0
+        git push
