@@ -12,7 +12,9 @@ AI Engineer at a semiconductor company by day, indie hacker by night. Started as
 • [claude-dashboard v1.16.2](https://github.com/uppinote20/claude-dashboard/releases/tag/v1.16.2) - 2026-03-07<br>
 • [clavis v0.3.0](https://github.com/uppinote20/clavis/releases/tag/v0.3.0) - 2026-03-07<br>
 • [obsidian-auto-note-importer 0.5.4](https://github.com/uppinote20/obsidian-auto-note-importer/releases/tag/0.5.4) - 2026-03-07<br>
-• [claude-memory-editor v1.0.1](https://github.com/uppinote20/claude-memory-editor/releases/tag/v1.0.1) - 2026-02-12
+• [sprint v0.5.0 — Architecture Editor UX](https://github.com/uppinote20/sprint/releases/tag/v0.5.0) - 2026-03-07<br>
+• [claude-memory-editor v1.0.1](https://github.com/uppinote20/claude-memory-editor/releases/tag/v1.0.1) - 2026-02-12<br>
+• [shieldcheck v1.0.0 - Initial Release](https://github.com/uppinote20/shieldcheck/releases/tag/v1.0.0) - 2026-02-01
 <!-- releases ends -->
 
 </td>
@@ -21,12 +23,12 @@ AI Engineer at a semiconductor company by day, indie hacker by night. Started as
 **Recent Posts**
 
 <!-- blog starts -->
-• [Prisma N+1 쿼리 성능 문제 해결하기](https://blog.uppinote.dev/prisma-n1-query-optimization/) - 2026-03-07<br>
-• [Prisma Decimal to Number 변환 시..](https://blog.uppinote.dev/prisma-decimal-silent-number-coercion/) - 2026-03-06<br>
-• [Express 프록시에서 파일 다운로드 자동 암호화](https://blog.uppinote.dev/express-proxy-layer-file-encryption/) - 2026-03-05<br>
-• [민감 데이터 접근 추적: Audit Logging](https://blog.uppinote.dev/audit-logging-sensitive-data/) - 2026-03-04<br>
-• [Tailscale로 Oracle Cloud SSH 보안](https://blog.uppinote.dev/tailscale-oracle-cloud-ssh-security/) - 2026-03-03<br>
-• [Ghost TTFB 3.7초 → 0.4초 최적화](https://blog.uppinote.dev/ghost-self-hosted-cloudflare-cache-speed-optimization/) - 2026-03-02
+• [Prisma N+1 쿼리 성능 문제 해결하기 (50% 속도 개선)](https://blog.uppinote.dev/prisma-n1-query-optimization/) - 2026-03-07<br>
+• [Prisma Decimal to Number 변환 시 silent..](https://blog.uppinote.dev/prisma-decimal-silent-number-coercion/) - 2026-03-06<br>
+• [Express 프록시 레이어에서 파일 다운로드 자동 암호화 구현하기](https://blog.uppinote.dev/express-proxy-layer-file-encryption/) - 2026-03-05<br>
+• [민감 데이터 접근 추적: Audit Logging 구현하기](https://blog.uppinote.dev/audit-logging-sensitive-data/) - 2026-03-04<br>
+• [Tailscale로 Oracle Cloud 서버 SSH 포트 완전..](https://blog.uppinote.dev/tailscale-oracle-cloud-ssh-security/) - 2026-03-03<br>
+• [Ghost 셀프 호스팅 블로그 TTFB 3.7초 → 0.4초: C..](https://blog.uppinote.dev/ghost-self-hosted-cloudflare-cache-speed-optimization/) - 2026-03-02
 <!-- blog ends -->
 
 </td>
