@@ -1,120 +1,40 @@
-## Hi, I'm uppinote
+AI Engineer at a semiconductor company by day, indie hacker by night. Started as a data analyst, now building AI systems and developer tools. 8+ years of turning manufacturing data into something useful.
 
-*I hate doing the same thing twice — so I automate everything.*
+*If I have to do it twice, I automate it.*
 
-<p>
-  <a href="mailto:uppinote@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.threads.net/@uppinote20"><img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white"/></a>
-  <a href="https://blog.uppinote.dev"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white"/></a>
-</p>
+<table width="960px">
+<tr>
+<td width="480px" valign="top">
 
----
+**Latest Releases**
 
-### What I'm Building
+<!-- releases starts -->
+• [claude-dashboard v1.16.2](https://github.com/uppinote20/claude-dashboard/releases/tag/v1.16.2) - 2026-03-07<br>
+• [clavis v0.3.0](https://github.com/uppinote20/clavis/releases/tag/v0.3.0) - 2026-03-07<br>
+• [obsidian-auto-note-importer 0.5.4](https://github.com/uppinote20/obsidian-auto-note-importer/releases/tag/0.5.4) - 2026-03-07<br>
+• [claude-memory-editor v1.0.1](https://github.com/uppinote20/claude-memory-editor/releases/tag/v1.0.1) - 2026-02-12
+<!-- releases ends -->
 
-- 🛠️ SaaS
-- 🌐 Chrome Extension
-- 📱 Mobile App
-- 👻 Ghost Theme
+</td>
+<td width="480px" valign="top">
 
-Also building small tools for personal automation & productivity.
+**Recent Posts**
 
----
+<!-- blog starts -->
+• [Prisma N+1 쿼리 성능 문제 해결하기](https://blog.uppinote.dev/prisma-n1-query-optimization/) - 2026-03-07<br>
+• [Prisma Decimal to Number 변환 시..](https://blog.uppinote.dev/prisma-decimal-silent-number-coercion/) - 2026-03-06<br>
+• [Express 프록시에서 파일 다운로드 자동 암호화](https://blog.uppinote.dev/express-proxy-layer-file-encryption/) - 2026-03-05<br>
+• [민감 데이터 접근 추적: Audit Logging](https://blog.uppinote.dev/audit-logging-sensitive-data/) - 2026-03-04<br>
+• [Tailscale로 Oracle Cloud SSH 보안](https://blog.uppinote.dev/tailscale-oracle-cloud-ssh-security/) - 2026-03-03<br>
+• [Ghost TTFB 3.7초 → 0.4초 최적화](https://blog.uppinote.dev/ghost-self-hosted-cloudflare-cache-speed-optimization/) - 2026-03-02
+<!-- blog ends -->
 
-### Tech Stack
-
-#### Language
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-</p>
-
-#### ML / DL
-
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-189FDD?style=flat-square&logo=xgboost&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logo=lightgbm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-</p>
-
-#### LLM / Agent
+</td>
+</tr>
+</table>
 
 <p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-</p>
-
-#### Computer Vision
-
-<p>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black"/>
-</p>
-
-#### Data & Visualization
-
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
-</p>
-
-#### Backend
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-</p>
-
-#### Frontend & Mobile
-
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-</p>
-
-#### Database
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Trino-DD00A1?style=flat-square&logo=trino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat-square&logo=milvus&logoColor=white"/>
-</p>
-
-#### Automation & Infra
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-</p>
-
----
-
-### GitHub Stats
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=uppinote20&hide_border=true&hide_title=true&include_all_commits=true&show_icons=true&theme=dark&bg_color=00000000"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=uppinote20&hide_border=true&hide_title=true&include_all_commits=true&show_icons=true&theme=default&bg_color=00000000"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=uppinote20&hide_border=true&hide_title=true&include_all_commits=true&show_icons=true&theme=default&bg_color=00000000" height="170"/>
-  </picture>
+  <img src="./profile/stats.svg" height="170"/>
   &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=uppinote20&hide_border=true&theme=dark&background=00000000"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=uppinote20&hide_border=true&theme=default&background=00000000"/>
-    <img src="https://streak-stats.demolab.com?user=uppinote20&hide_border=true&theme=default&background=00000000" height="170"/>
-  </picture>
+  <img src="./profile/streak.svg" height="170"/>
 </p>
