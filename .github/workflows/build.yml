@@ -45,7 +45,7 @@ jobs:
       uses: readme-tools/github-readme-stats-action@v1
       with:
         card: top-langs
-        options: username=uppinote20&layout=compact&hide_border=true&theme=github_dark_dimmed&langs_count=8
+        options: username=uppinote20&layout=compact&hide_border=true&theme=github_dark_dimmed&langs_count=8&exclude_repo=n8n,n8n-mcp,Transformers-Tutorials,finance-data-analysis,obsidian-releases,obsidian-developer-docs,ANUS,claude-code-automation,cc-plugins,notice-board-fullstack
         path: profile/top-langs.svg
         token: ${{ secrets.GH_TOKEN }}
     - name: Generate streak card
