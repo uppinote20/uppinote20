@@ -39,12 +39,7 @@ jobs:
         path: profile/stats.svg
         token: ${{ secrets.GITHUB_TOKEN }}
     - name: Generate streak card
-      uses: readme-tools/github-readme-stats-action@v1
-      with:
-        card: streak
-        options: user=uppinote20&hide_border=true
-        path: profile/streak.svg
-        token: ${{ secrets.GITHUB_TOKEN }}
+      run: curl -s -o profile/streak.svg "https://streak-stats.demolab.com?user=uppinote20&hide_border=true&theme=transparent"
     - name: Commit and push if changed
       run: |-
         git diff
