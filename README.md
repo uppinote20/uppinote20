@@ -1,4 +1,4 @@
-AI Engineer at a semiconductor company by day, indie hacker by night. Started as a data analyst, now building AI systems and developer tools. 8+ years of turning manufacturing data into something useful.
+AI Engineer at a semiconductor company by day, indie hacker by night. Building AI systems and developer tools. 8+ years of turning manufacturing data into something useful.
 
 *If I have to do it twice, I automate it.*
 
