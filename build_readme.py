@@ -3,7 +3,11 @@ import pathlib
 import re
 import os
 import datetime
+from zoneinfo import ZoneInfo
+
 from github import Github
+
+KST = ZoneInfo("Asia/Seoul")
 
 root = pathlib.Path(__file__).parent.resolve()
 
@@ -33,7 +37,8 @@ def parse_date(entry):
     for key in ("published_parsed", "updated_parsed"):
         parsed = entry.get(key)
         if parsed:
-            return datetime.datetime(*parsed[:6]).strftime("%Y-%m-%d")
+            utc_dt = datetime.datetime(*parsed[:6], tzinfo=datetime.timezone.utc)
+            return utc_dt.astimezone(KST).strftime("%Y-%m-%d")
     return ""
 
 
@@ -55,7 +60,7 @@ def fetch_releases(token):
                         "repo": repo.name,
                         "title": title,
                         "url": release.html_url,
-                        "date": release.published_at.strftime("%Y-%m-%d"),
+                        "date": release.published_at.astimezone(KST).strftime("%Y-%m-%d"),
                     }
                 )
                 break  # latest release only per repo
