@@ -9,7 +9,7 @@ AI Engineer at a semiconductor company by day, indie hacker by night. Building A
 **Latest Releases**
 
 <!-- releases starts -->
-• [claude-dashboard v1.16.2](https://github.com/uppinote20/claude-dashboard/releases/tag/v1.16.2) - 2026-03-07<br>
+• [claude-dashboard v1.17.0](https://github.com/uppinote20/claude-dashboard/releases/tag/v1.17.0) - 2026-03-10<br>
 • [obsidian-auto-note-importer 0.5.4](https://github.com/uppinote20/obsidian-auto-note-importer/releases/tag/0.5.4) - 2026-03-07<br>
 • [claude-memory-editor v1.0.1](https://github.com/uppinote20/claude-memory-editor/releases/tag/v1.0.1) - 2026-02-12
 <!-- releases ends -->
@@ -20,12 +20,12 @@ AI Engineer at a semiconductor company by day, indie hacker by night. Building A
 **Recent Posts**
 
 <!-- blog starts -->
+• [pyenv rehash 락 파일 에러 해결..](https://blog.uppinote.dev/pyenv-rehash-lock-file-troubleshooting/) - 2026-03-11<br>
 • [크롬 확장 공유 모듈 설계: 중복 코드 4..](https://blog.uppinote.dev/chrome-extension-shared-modules-refactoring/) - 2026-03-10<br>
 • [크롬 확장 프로젝트 구조 정리하기: pop..](https://blog.uppinote.dev/chrome-extension-folder-structure-refactoring/) - 2026-03-09<br>
 • [Astro Starlight + Verce..](https://blog.uppinote.dev/astro-starlight-vercel-documentation-site-guide/) - 2026-03-08<br>
 • [Prisma N+1 쿼리 성능 문제 해결하..](https://blog.uppinote.dev/prisma-n1-query-optimization/) - 2026-03-07<br>
-• [Prisma Decimal to Numbe..](https://blog.uppinote.dev/prisma-decimal-silent-number-coercion/) - 2026-03-06<br>
-• [Express 프록시 레이어에서 파일 다운..](https://blog.uppinote.dev/express-proxy-layer-file-encryption/) - 2026-03-05
+• [Prisma Decimal to Numbe..](https://blog.uppinote.dev/prisma-decimal-silent-number-coercion/) - 2026-03-06
 <!-- blog ends -->
 
 </td>
