@@ -20,12 +20,12 @@ AI Engineer at a semiconductor company by day, indie hacker by night. Building A
 **Recent Posts**
 
 <!-- blog starts -->
+• [Vitest와 MSW로 React Hook..](https://blog.uppinote.dev/vitest-msw-react-hook-testing/) - 2026-03-12<br>
 • [pyenv rehash 락 파일 에러 해결..](https://blog.uppinote.dev/pyenv-rehash-lock-file-troubleshooting/) - 2026-03-11<br>
 • [크롬 확장 공유 모듈 설계: 중복 코드 4..](https://blog.uppinote.dev/chrome-extension-shared-modules-refactoring/) - 2026-03-10<br>
 • [크롬 확장 프로젝트 구조 정리하기: pop..](https://blog.uppinote.dev/chrome-extension-folder-structure-refactoring/) - 2026-03-09<br>
 • [Astro Starlight + Verce..](https://blog.uppinote.dev/astro-starlight-vercel-documentation-site-guide/) - 2026-03-08<br>
-• [Prisma N+1 쿼리 성능 문제 해결하..](https://blog.uppinote.dev/prisma-n1-query-optimization/) - 2026-03-07<br>
-• [Prisma Decimal to Numbe..](https://blog.uppinote.dev/prisma-decimal-silent-number-coercion/) - 2026-03-06
+• [Prisma N+1 쿼리 성능 문제 해결하..](https://blog.uppinote.dev/prisma-n1-query-optimization/) - 2026-03-07
 <!-- blog ends -->
 
 </td>
