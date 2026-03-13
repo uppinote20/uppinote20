@@ -9,8 +9,8 @@ AI Engineer at a semiconductor company by day, indie hacker by night. Building A
 **Latest Releases**
 
 <!-- releases starts -->
+• [obsidian-auto-note-importer 0.6.0](https://github.com/uppinote20/obsidian-auto-note-importer/releases/tag/0.6.0) - 2026-03-13<br>
 • [claude-dashboard v1.18.0](https://github.com/uppinote20/claude-dashboard/releases/tag/v1.18.0) - 2026-03-12<br>
-• [obsidian-auto-note-importer 0.5.4](https://github.com/uppinote20/obsidian-auto-note-importer/releases/tag/0.5.4) - 2026-03-07<br>
 • [claude-memory-editor v1.0.1](https://github.com/uppinote20/claude-memory-editor/releases/tag/v1.0.1) - 2026-02-12
 <!-- releases ends -->
 
