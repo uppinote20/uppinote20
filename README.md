@@ -20,12 +20,12 @@ AI Engineer at a semiconductor company by day, indie hacker by night. Building A
 **Recent Posts**
 
 <!-- blog starts -->
+• [GitHub Issues 완전 가이드: E..](https://blog.uppinote.dev/github-issues-epic-sub-issues-labels-management-guide/) - 2026-03-17<br>
 • [Prisma 일괄 업데이트에서 동시성 이슈..](https://blog.uppinote.dev/prisma-transaction-lock-batch-update/) - 2026-03-16<br>
 • [Prisma Extension으로 민감 데..](https://blog.uppinote.dev/prisma-extension-field-encryption/) - 2026-03-13<br>
 • [Vitest와 MSW로 React Hook..](https://blog.uppinote.dev/vitest-msw-react-hook-testing/) - 2026-03-12<br>
 • [pyenv rehash 락 파일 에러 해결..](https://blog.uppinote.dev/pyenv-rehash-lock-file-troubleshooting/) - 2026-03-11<br>
-• [크롬 확장 공유 모듈 설계: 중복 코드 4..](https://blog.uppinote.dev/chrome-extension-shared-modules-refactoring/) - 2026-03-10<br>
-• [크롬 확장 프로젝트 구조 정리하기: pop..](https://blog.uppinote.dev/chrome-extension-folder-structure-refactoring/) - 2026-03-09
+• [크롬 확장 공유 모듈 설계: 중복 코드 4..](https://blog.uppinote.dev/chrome-extension-shared-modules-refactoring/) - 2026-03-10
 <!-- blog ends -->
 
 </td>
