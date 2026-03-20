@@ -20,12 +20,12 @@ AI Engineer at a semiconductor company by day, indie hacker by night. Building A
 **Recent Posts**
 
 <!-- blog starts -->
+• [API 에러 추적 개선하기: errorId..](https://blog.uppinote.dev/error-tracking-with-errorid/) - 2026-03-20<br>
 • [JavaScript 타임존 함정 피하기: ..](https://blog.uppinote.dev/timezone-safe-date-handling/) - 2026-03-19<br>
 • [Next.js API에 Rate Limit..](https://blog.uppinote.dev/api-rate-limiting-implementation/) - 2026-03-18<br>
 • [GitHub Issues 완전 가이드: E..](https://blog.uppinote.dev/github-issues-epic-sub-issues-labels-management-guide/) - 2026-03-17<br>
 • [Prisma 일괄 업데이트에서 동시성 이슈..](https://blog.uppinote.dev/prisma-transaction-lock-batch-update/) - 2026-03-16<br>
-• [Prisma Extension으로 민감 데..](https://blog.uppinote.dev/prisma-extension-field-encryption/) - 2026-03-13<br>
-• [Vitest와 MSW로 React Hook..](https://blog.uppinote.dev/vitest-msw-react-hook-testing/) - 2026-03-12
+• [Prisma Extension으로 민감 데..](https://blog.uppinote.dev/prisma-extension-field-encryption/) - 2026-03-13
 <!-- blog ends -->
 
 </td>
