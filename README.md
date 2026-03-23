@@ -9,7 +9,7 @@ AI Engineer at a semiconductor company by day, indie hacker by night. Building A
 **Latest Releases**
 
 <!-- releases starts -->
-• [claude-dashboard v1.20.1](https://github.com/uppinote20/claude-dashboard/releases/tag/v1.20.1) - 2026-03-16<br>
+• [claude-dashboard v1.21.0](https://github.com/uppinote20/claude-dashboard/releases/tag/v1.21.0) - 2026-03-23<br>
 • [obsidian-auto-note-importer 0.7.0](https://github.com/uppinote20/obsidian-auto-note-importer/releases/tag/0.7.0) - 2026-03-13<br>
 • [claude-memory-editor v1.0.1](https://github.com/uppinote20/claude-memory-editor/releases/tag/v1.0.1) - 2026-02-12
 <!-- releases ends -->
@@ -20,12 +20,12 @@ AI Engineer at a semiconductor company by day, indie hacker by night. Building A
 **Recent Posts**
 
 <!-- blog starts -->
+• [Rust CLI 배포 자동화: Homebr..](https://blog.uppinote.dev/rust-cli-distribution-homebrew-scoop-installer/) - 2026-03-23<br>
 • [API 에러 추적 개선하기: errorId..](https://blog.uppinote.dev/error-tracking-with-errorid/) - 2026-03-20<br>
 • [JavaScript 타임존 함정 피하기: ..](https://blog.uppinote.dev/timezone-safe-date-handling/) - 2026-03-19<br>
 • [Next.js API에 Rate Limit..](https://blog.uppinote.dev/api-rate-limiting-implementation/) - 2026-03-18<br>
 • [GitHub Issues 완전 가이드: E..](https://blog.uppinote.dev/github-issues-epic-sub-issues-labels-management-guide/) - 2026-03-17<br>
-• [Prisma 일괄 업데이트에서 동시성 이슈..](https://blog.uppinote.dev/prisma-transaction-lock-batch-update/) - 2026-03-16<br>
-• [Prisma Extension으로 민감 데..](https://blog.uppinote.dev/prisma-extension-field-encryption/) - 2026-03-13
+• [Prisma 일괄 업데이트에서 동시성 이슈..](https://blog.uppinote.dev/prisma-transaction-lock-batch-update/) - 2026-03-16
 <!-- blog ends -->
 
 </td>
