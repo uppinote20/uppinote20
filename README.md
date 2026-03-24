@@ -20,12 +20,12 @@ AI Engineer at a semiconductor company by day, indie hacker by night. Building A
 **Recent Posts**
 
 <!-- blog starts -->
+• [Promise.all vs Promise...](https://blog.uppinote.dev/promise-allsettled-partial-failure/) - 2026-03-24<br>
 • [Rust CLI 배포 자동화: Homebr..](https://blog.uppinote.dev/rust-cli-distribution-homebrew-scoop-installer/) - 2026-03-23<br>
 • [API 에러 추적 개선하기: errorId..](https://blog.uppinote.dev/error-tracking-with-errorid/) - 2026-03-20<br>
 • [JavaScript 타임존 함정 피하기: ..](https://blog.uppinote.dev/timezone-safe-date-handling/) - 2026-03-19<br>
 • [Next.js API에 Rate Limit..](https://blog.uppinote.dev/api-rate-limiting-implementation/) - 2026-03-18<br>
-• [GitHub Issues 완전 가이드: E..](https://blog.uppinote.dev/github-issues-epic-sub-issues-labels-management-guide/) - 2026-03-17<br>
-• [Prisma 일괄 업데이트에서 동시성 이슈..](https://blog.uppinote.dev/prisma-transaction-lock-batch-update/) - 2026-03-16
+• [GitHub Issues 완전 가이드: E..](https://blog.uppinote.dev/github-issues-epic-sub-issues-labels-management-guide/) - 2026-03-17
 <!-- blog ends -->
 
 </td>
