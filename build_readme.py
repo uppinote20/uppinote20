@@ -72,7 +72,14 @@ def fetch_releases(token):
 
 
 def fetch_blog():
-    entries = feedparser.parse(BLOG_RSS).get("entries", [])
+    feed = feedparser.parse(
+        BLOG_RSS,
+        request_headers={"User-Agent": "uppinote-readme-bot/1.0"},
+    )
+    if feed.bozo and not feed.entries:
+        print(f"[WARN] RSS fetch failed: {feed.bozo_exception}")
+        return []
+    entries = feed.get("entries", [])
     results = []
     for entry in entries:
         title = truncate(entry.get("title", ""))
@@ -96,9 +103,12 @@ if __name__ == "__main__":
     content = replace_chunk(content, "releases", releases_md)
 
     posts = fetch_blog()
-    blog_md = "<br>\n".join(
-        '• [{title}]({url}) - {date}'.format(**p) for p in posts
-    )
-    content = replace_chunk(content, "blog", blog_md)
+    if posts:
+        blog_md = "<br>\n".join(
+            '• [{title}]({url}) - {date}'.format(**p) for p in posts
+        )
+        content = replace_chunk(content, "blog", blog_md)
+    else:
+        print("[WARN] No blog posts fetched — keeping existing content")
 
     readme.write_text(content)
