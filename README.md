@@ -22,12 +22,12 @@ AI Engineer at a semiconductor company by day, indie hacker by night. Building A
 **Recent Posts**
 
 <!-- blog starts -->
+• [과거의 진실을 기록하는 법: Append-..](https://blog.uppinote.dev/append-only-status-log-historical-weekly-report/) - 2026-04-16<br>
 • [findUnique → create의 함정..](https://blog.uppinote.dev/prisma-get-or-create-race-condition-p2002/) - 2026-04-15<br>
 • [Docker는 UTC, 사용자는 KST: ..](https://blog.uppinote.dev/tz-aware-iso-week-intl-datetimeformat/) - 2026-04-14<br>
 • [Git from Hell 탈출기: chec..](https://blog.uppinote.dev/git-from-hell-modern-commands-branch-cleanup/) - 2026-04-13<br>
 • [Rust TUI 스크린샷과 데모 GIF 만..](https://blog.uppinote.dev/rust-tui-screenshot-gif-ratatui-alternate-screen/) - 2026-04-10<br>
-• [Next.js에서 2FA/TOTP 인증 구..](https://blog.uppinote.dev/nextjs-2fa-totp-implementation/) - 2026-04-09<br>
-• [Next.js App Router에서 CS..](https://blog.uppinote.dev/nextjs-csrf-token-management/) - 2026-04-08
+• [Next.js에서 2FA/TOTP 인증 구..](https://blog.uppinote.dev/nextjs-2fa-totp-implementation/) - 2026-04-09
 <!-- blog ends -->
 
 </td>
