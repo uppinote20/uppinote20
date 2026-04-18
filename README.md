@@ -9,7 +9,7 @@ AI Engineer at a semiconductor company by day, indie hacker by night. Building A
 **Latest Releases**
 
 <!-- releases starts -->
-• [claude-dashboard v1.25.1](https://github.com/uppinote20/claude-dashboard/releases/tag/v1.25.1) - 2026-04-16<br>
+• [claude-dashboard v1.26.0](https://github.com/uppinote20/claude-dashboard/releases/tag/v1.26.0) - 2026-04-18<br>
 • [duru v0.2.0](https://github.com/uppinote20/duru/releases/tag/v0.2.0) - 2026-04-14<br>
 • [obsidian-auto-note-importer 0.8.1](https://github.com/uppinote20/obsidian-auto-note-importer/releases/tag/0.8.1) - 2026-04-09<br>
 • [ghost-mcp v1.0.1](https://github.com/uppinote20/ghost-mcp/releases/tag/v1.0.1) - 2026-04-05<br>
