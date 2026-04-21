@@ -9,7 +9,7 @@ AI Engineer at a semiconductor company by day, indie hacker by night. Building A
 **Latest Releases**
 
 <!-- releases starts -->
-• [duru v0.3.0](https://github.com/uppinote20/duru/releases/tag/v0.3.0) - 2026-04-20<br>
+• [duru v0.3.1](https://github.com/uppinote20/duru/releases/tag/v0.3.1) - 2026-04-20<br>
 • [claude-dashboard v1.26.0](https://github.com/uppinote20/claude-dashboard/releases/tag/v1.26.0) - 2026-04-18<br>
 • [obsidian-auto-note-importer 0.8.1](https://github.com/uppinote20/obsidian-auto-note-importer/releases/tag/0.8.1) - 2026-04-09<br>
 • [ghost-mcp v1.0.1](https://github.com/uppinote20/ghost-mcp/releases/tag/v1.0.1) - 2026-04-05<br>
@@ -22,12 +22,12 @@ AI Engineer at a semiconductor company by day, indie hacker by night. Building A
 **Recent Posts**
 
 <!-- blog starts -->
+• [Active, Ongoing, Comple..](https://blog.uppinote.dev/weekly-task-state-query-semantics/) - 2026-04-21<br>
 • [과거 주차 조회에서 '그 당시 최신 스프린..](https://blog.uppinote.dev/historical-latest-sprint-week-report/) - 2026-04-20<br>
 • [순차 루프를 10배 빠르게: Promise..](https://blog.uppinote.dev/api-performance-parallelize-loop-batch-queries/) - 2026-04-17<br>
 • [과거의 진실을 기록하는 법: Append-..](https://blog.uppinote.dev/append-only-status-log-historical-weekly-report/) - 2026-04-16<br>
 • [findUnique → create의 함정..](https://blog.uppinote.dev/prisma-get-or-create-race-condition-p2002/) - 2026-04-15<br>
-• [Docker는 UTC, 사용자는 KST: ..](https://blog.uppinote.dev/tz-aware-iso-week-intl-datetimeformat/) - 2026-04-14<br>
-• [Git from Hell 탈출기: chec..](https://blog.uppinote.dev/git-from-hell-modern-commands-branch-cleanup/) - 2026-04-13
+• [Docker는 UTC, 사용자는 KST: ..](https://blog.uppinote.dev/tz-aware-iso-week-intl-datetimeformat/) - 2026-04-14
 <!-- blog ends -->
 
 </td>
