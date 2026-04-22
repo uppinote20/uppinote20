@@ -22,12 +22,12 @@ AI Engineer at a semiconductor company by day, indie hacker by night. Building A
 **Recent Posts**
 
 <!-- blog starts -->
+• [Prisma $extends 테넌트 격리와..](https://blog.uppinote.dev/prisma-extends-transaction-tenant-manual-injection/) - 2026-04-22<br>
 • [Active, Ongoing, Comple..](https://blog.uppinote.dev/weekly-task-state-query-semantics/) - 2026-04-21<br>
 • [과거 주차 조회에서 '그 당시 최신 스프린..](https://blog.uppinote.dev/historical-latest-sprint-week-report/) - 2026-04-20<br>
 • [순차 루프를 10배 빠르게: Promise..](https://blog.uppinote.dev/api-performance-parallelize-loop-batch-queries/) - 2026-04-17<br>
 • [과거의 진실을 기록하는 법: Append-..](https://blog.uppinote.dev/append-only-status-log-historical-weekly-report/) - 2026-04-16<br>
-• [findUnique → create의 함정..](https://blog.uppinote.dev/prisma-get-or-create-race-condition-p2002/) - 2026-04-15<br>
-• [Docker는 UTC, 사용자는 KST: ..](https://blog.uppinote.dev/tz-aware-iso-week-intl-datetimeformat/) - 2026-04-14
+• [findUnique → create의 함정..](https://blog.uppinote.dev/prisma-get-or-create-race-condition-p2002/) - 2026-04-15
 <!-- blog ends -->
 
 </td>
