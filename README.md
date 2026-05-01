@@ -22,12 +22,12 @@ AI Engineer at a semiconductor company by day, indie hacker by night. Building A
 **Recent Posts**
 
 <!-- blog starts -->
+• [Ratatui로 Miller Columns..](https://blog.uppinote.dev/ratatui-miller-columns-3-pane-navigation-ui-rust/) - 2026-05-01<br>
 • [Claude Code 프로젝트 폴더명 디코..](https://blog.uppinote.dev/claude-code-project-folder-name-decoding-greedy-filesystem-matching/) - 2026-04-30<br>
 • [한 기능을 수직으로 덮는 테스트 피라미드:..](https://blog.uppinote.dev/test-pyramid-single-feature-coverage/) - 2026-04-29<br>
 • [URL 쿼리로 토글하는 인라인 전체화면: ..](https://blog.uppinote.dev/url-state-inline-fullscreen-nextjs/) - 2026-04-28<br>
 • [UI는 좁게, API는 넓게: 타임존 설정..](https://blog.uppinote.dev/two-tier-timezone-validation-ui-api/) - 2026-04-27<br>
-• [메모 한 통에 10MB? API 입력 길이..](https://blog.uppinote.dev/api-input-length-limits-defensive-validation/) - 2026-04-24<br>
-• [new Date(2026, 3, 6)의 9..](https://blog.uppinote.dev/test-fixtures-date-utc-ci-local-drift/) - 2026-04-23
+• [메모 한 통에 10MB? API 입력 길이..](https://blog.uppinote.dev/api-input-length-limits-defensive-validation/) - 2026-04-24
 <!-- blog ends -->
 
 </td>
