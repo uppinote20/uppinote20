@@ -9,10 +9,10 @@ AI Engineer at a semiconductor company by day, indie hacker by night. Building A
 **Latest Releases**
 
 <!-- releases starts -->
-• [claude-dashboard v1.24.0](https://github.com/uppinote20/claude-dashboard/releases/tag/v1.24.0) - 2026-04-09<br>
-• [obsidian-auto-note-importer 0.8.1](https://github.com/uppinote20/obsidian-auto-note-importer/releases/tag/0.8.1) - 2026-04-09<br>
-• [ghost-mcp v1.0.1](https://github.com/uppinote20/ghost-mcp/releases/tag/v1.0.1) - 2026-04-05<br>
-• [claude-memory-editor v1.0.1](https://github.com/uppinote20/claude-memory-editor/releases/tag/v1.0.1) - 2026-02-12
+• [obsidian-auto-note-importer 0.9.0](https://github.com/uppinote20/obsidian-auto-note-importer/releases/tag/0.9.0) - 2026-05-04<br>
+• [ghost-mcp v1.2.0](https://github.com/uppinote20/ghost-mcp/releases/tag/v1.2.0) - 2026-04-26<br>
+• [duru v0.4.1](https://github.com/uppinote20/duru/releases/tag/v0.4.1) - 2026-04-25<br>
+• [claude-dashboard v1.26.1](https://github.com/uppinote20/claude-dashboard/releases/tag/v1.26.1) - 2026-04-22
 <!-- releases ends -->
 
 </td>
@@ -21,12 +21,12 @@ AI Engineer at a semiconductor company by day, indie hacker by night. Building A
 **Recent Posts**
 
 <!-- blog starts -->
-• [Next.js에서 2FA/TOTP 인증 구..](https://blog.uppinote.dev/nextjs-2fa-totp-implementation/) - 2026-04-09<br>
-• [Next.js App Router에서 CS..](https://blog.uppinote.dev/nextjs-csrf-token-management/) - 2026-04-08<br>
-• [크롬 확장 보안 강화: CSP와 최소 권한..](https://blog.uppinote.dev/chrome-extension-csp-security-hardening/) - 2026-04-07<br>
-• [Chrome Alarms API로 자동 잠..](https://blog.uppinote.dev/chrome-extension-alarms-api-auto-lock/) - 2026-04-06<br>
-• [Next.js 로컬 개발 환경 HTTP →..](https://blog.uppinote.dev/nextjs-localhost-http-to-https-migration-nextauth-cookie/) - 2026-04-03<br>
-• [/last30days 플러그인 셋업부터 R..](https://blog.uppinote.dev/last30days-skill-setup-reddit-comments-free-optimization/) - 2026-04-02
+• [터미널 다크/라이트 모드 자동 감지: CO..](https://blog.uppinote.dev/terminal-colorfgbg-dark-light-theme-auto-detection-rust/) - 2026-05-04<br>
+• [Ratatui로 Miller Columns..](https://blog.uppinote.dev/ratatui-miller-columns-3-pane-navigation-ui-rust/) - 2026-05-01<br>
+• [Claude Code 프로젝트 폴더명 디코..](https://blog.uppinote.dev/claude-code-project-folder-name-decoding-greedy-filesystem-matching/) - 2026-04-30<br>
+• [한 기능을 수직으로 덮는 테스트 피라미드:..](https://blog.uppinote.dev/test-pyramid-single-feature-coverage/) - 2026-04-29<br>
+• [URL 쿼리로 토글하는 인라인 전체화면: ..](https://blog.uppinote.dev/url-state-inline-fullscreen-nextjs/) - 2026-04-28<br>
+• [UI는 좁게, API는 넓게: 타임존 설정..](https://blog.uppinote.dev/two-tier-timezone-validation-ui-api/) - 2026-04-27
 <!-- blog ends -->
 
 </td>
