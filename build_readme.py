@@ -48,7 +48,7 @@ def fetch_releases(token):
     releases = []
 
     for repo in user.get_repos(type="owner"):
-        if repo.fork or repo.private or repo.name in EXCLUDE_RELEASES:
+        if repo.fork or repo.private or repo.archived or repo.name in EXCLUDE_RELEASES:
             continue
         try:
             for release in repo.get_releases():
