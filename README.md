@@ -21,12 +21,12 @@ AI Engineer at a semiconductor company by day, indie hacker by night. Building A
 **Recent Posts**
 
 <!-- blog starts -->
+• [Docker Desktop, 아직도 쓰세요..](https://blog.uppinote.dev/docker-desktop-alternatives-comparison-2026/) - 2026-05-05<br>
 • [터미널 다크/라이트 모드 자동 감지: CO..](https://blog.uppinote.dev/terminal-colorfgbg-dark-light-theme-auto-detection-rust/) - 2026-05-04<br>
 • [Ratatui로 Miller Columns..](https://blog.uppinote.dev/ratatui-miller-columns-3-pane-navigation-ui-rust/) - 2026-05-01<br>
 • [Claude Code 프로젝트 폴더명 디코..](https://blog.uppinote.dev/claude-code-project-folder-name-decoding-greedy-filesystem-matching/) - 2026-04-30<br>
 • [한 기능을 수직으로 덮는 테스트 피라미드:..](https://blog.uppinote.dev/test-pyramid-single-feature-coverage/) - 2026-04-29<br>
-• [URL 쿼리로 토글하는 인라인 전체화면: ..](https://blog.uppinote.dev/url-state-inline-fullscreen-nextjs/) - 2026-04-28<br>
-• [UI는 좁게, API는 넓게: 타임존 설정..](https://blog.uppinote.dev/two-tier-timezone-validation-ui-api/) - 2026-04-27
+• [URL 쿼리로 토글하는 인라인 전체화면: ..](https://blog.uppinote.dev/url-state-inline-fullscreen-nextjs/) - 2026-04-28
 <!-- blog ends -->
 
 </td>
