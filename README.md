@@ -21,12 +21,12 @@ AI Engineer at a semiconductor company by day, indie hacker by night. Building A
 **Recent Posts**
 
 <!-- blog starts -->
+• [실패도 캐싱하라: API 클라이언트 회복력..](https://blog.uppinote.dev/api-client-negative-caching-discriminated-union-typescript/) - 2026-05-08<br>
 • [터미널 상태줄을 클릭 가능하게: OSC8 ..](https://blog.uppinote.dev/terminal-osc8-clickable-links-with-security-pitfalls/) - 2026-05-07<br>
 • [claude-dashboard v1.14~..](https://blog.uppinote.dev/claude-dashboard-v1-14-to-v1-24-stdin-osc8-parser/) - 2026-05-06<br>
 • [Docker Desktop, 아직도 쓰세요..](https://blog.uppinote.dev/docker-desktop-alternatives-comparison-2026/) - 2026-05-05<br>
 • [터미널 다크/라이트 모드 자동 감지: CO..](https://blog.uppinote.dev/terminal-colorfgbg-dark-light-theme-auto-detection-rust/) - 2026-05-04<br>
-• [Ratatui로 Miller Columns..](https://blog.uppinote.dev/ratatui-miller-columns-3-pane-navigation-ui-rust/) - 2026-05-01<br>
-• [Claude Code 프로젝트 폴더명 디코..](https://blog.uppinote.dev/claude-code-project-folder-name-decoding-greedy-filesystem-matching/) - 2026-04-30
+• [Ratatui로 Miller Columns..](https://blog.uppinote.dev/ratatui-miller-columns-3-pane-navigation-ui-rust/) - 2026-05-01
 <!-- blog ends -->
 
 </td>
