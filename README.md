@@ -9,10 +9,10 @@ AI Engineer at a semiconductor company by day, indie hacker by night. Building A
 **Latest Releases**
 
 <!-- releases starts -->
+• [claude-dashboard v1.26.2](https://github.com/uppinote20/claude-dashboard/releases/tag/v1.26.2) - 2026-05-13<br>
 • [obsidian-auto-note-importer 0.10.0](https://github.com/uppinote20/obsidian-auto-note-importer/releases/tag/0.10.0) - 2026-05-05<br>
 • [ghost-mcp v1.2.0](https://github.com/uppinote20/ghost-mcp/releases/tag/v1.2.0) - 2026-04-26<br>
-• [duru v0.4.1](https://github.com/uppinote20/duru/releases/tag/v0.4.1) - 2026-04-25<br>
-• [claude-dashboard v1.26.1](https://github.com/uppinote20/claude-dashboard/releases/tag/v1.26.1) - 2026-04-22
+• [duru v0.4.1](https://github.com/uppinote20/duru/releases/tag/v0.4.1) - 2026-04-25
 <!-- releases ends -->
 
 </td>
@@ -21,12 +21,12 @@ AI Engineer at a semiconductor company by day, indie hacker by night. Building A
 **Recent Posts**
 
 <!-- blog starts -->
+• [MCP 서버 보안: LLM이 생성한 파일 ..](https://blog.uppinote.dev/mcp-server-path-traversal-defense-llm-file-path/) - 2026-05-14<br>
 • [TypeScript로 읽기 전용 상태 표현..](https://blog.uppinote.dev/typescript-readonly-status-type-boundary-ghost-sent/) - 2026-05-13<br>
 • [Ghost API 태그 삭제가 안 되는 이..](https://blog.uppinote.dev/ghost-api-empty-array-patch-tag-clearing/) - 2026-05-12<br>
 • [claude-dashboard v1.25~..](https://blog.uppinote.dev/claude-dashboard-v1-25-to-v1-26-sub-widgets-community-contributions/) - 2026-05-11<br>
 • [실패도 캐싱하라: API 클라이언트 회복력..](https://blog.uppinote.dev/api-client-negative-caching-discriminated-union-typescript/) - 2026-05-08<br>
-• [터미널 상태줄을 클릭 가능하게: OSC8 ..](https://blog.uppinote.dev/terminal-osc8-clickable-links-with-security-pitfalls/) - 2026-05-07<br>
-• [claude-dashboard v1.14~..](https://blog.uppinote.dev/claude-dashboard-v1-14-to-v1-24-stdin-osc8-parser/) - 2026-05-06
+• [터미널 상태줄을 클릭 가능하게: OSC8 ..](https://blog.uppinote.dev/terminal-osc8-clickable-links-with-security-pitfalls/) - 2026-05-07
 <!-- blog ends -->
 
 </td>
