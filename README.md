@@ -21,12 +21,12 @@ AI Engineer at a semiconductor company by day, indie hacker by night. Building A
 **Recent Posts**
 
 <!-- blog starts -->
+• [양방향 링크 시스템을 테스트 커버리지에 확..](https://blog.uppinote.dev/bidirectional-link-test-coverage-tested-covers-marker/) - 2026-05-18<br>
 • [마크다운 3포맷 자동 감지 파서 설계: l..](https://blog.uppinote.dev/markdown-multi-format-auto-detection-parser-design/) - 2026-05-15<br>
 • [MCP 서버 보안: LLM이 생성한 파일 ..](https://blog.uppinote.dev/mcp-server-path-traversal-defense-llm-file-path/) - 2026-05-14<br>
 • [TypeScript로 읽기 전용 상태 표현..](https://blog.uppinote.dev/typescript-readonly-status-type-boundary-ghost-sent/) - 2026-05-13<br>
 • [Ghost API 태그 삭제가 안 되는 이..](https://blog.uppinote.dev/ghost-api-empty-array-patch-tag-clearing/) - 2026-05-12<br>
-• [claude-dashboard v1.25~..](https://blog.uppinote.dev/claude-dashboard-v1-25-to-v1-26-sub-widgets-community-contributions/) - 2026-05-11<br>
-• [실패도 캐싱하라: API 클라이언트 회복력..](https://blog.uppinote.dev/api-client-negative-caching-discriminated-union-typescript/) - 2026-05-08
+• [claude-dashboard v1.25~..](https://blog.uppinote.dev/claude-dashboard-v1-25-to-v1-26-sub-widgets-community-contributions/) - 2026-05-11
 <!-- blog ends -->
 
 </td>
