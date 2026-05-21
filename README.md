@@ -9,10 +9,10 @@ AI Engineer at a semiconductor company by day, indie hacker by night. Building A
 **Latest Releases**
 
 <!-- releases starts -->
+• [duru v0.5.0](https://github.com/uppinote20/duru/releases/tag/v0.5.0) - 2026-05-20<br>
 • [claude-dashboard v1.26.2](https://github.com/uppinote20/claude-dashboard/releases/tag/v1.26.2) - 2026-05-13<br>
 • [obsidian-auto-note-importer 0.10.0](https://github.com/uppinote20/obsidian-auto-note-importer/releases/tag/0.10.0) - 2026-05-05<br>
-• [ghost-mcp v1.2.0](https://github.com/uppinote20/ghost-mcp/releases/tag/v1.2.0) - 2026-04-26<br>
-• [duru v0.4.1](https://github.com/uppinote20/duru/releases/tag/v0.4.1) - 2026-04-25
+• [ghost-mcp v1.2.0](https://github.com/uppinote20/ghost-mcp/releases/tag/v1.2.0) - 2026-04-26
 <!-- releases ends -->
 
 </td>
@@ -21,12 +21,12 @@ AI Engineer at a semiconductor company by day, indie hacker by night. Building A
 **Recent Posts**
 
 <!-- blog starts -->
+• [Obsidian 플러그인을 Multi-Da..](https://blog.uppinote.dev/obsidian-airtable-database-provider-abstraction-refactor/) - 2026-05-21<br>
 • [하나의 Obsidian Vault에서 여러..](https://blog.uppinote.dev/obsidian-plugin-multi-config-architecture-airtable/) - 2026-05-20<br>
 • [Ghost MCP v1.0.1 업데이트기:..](https://blog.uppinote.dev/ghost-mcp-v1-0-1-update-prototype-to-oss/) - 2026-05-19<br>
 • [양방향 링크 시스템을 테스트 커버리지에 확..](https://blog.uppinote.dev/bidirectional-link-test-coverage-tested-covers-marker/) - 2026-05-18<br>
 • [마크다운 3포맷 자동 감지 파서 설계: l..](https://blog.uppinote.dev/markdown-multi-format-auto-detection-parser-design/) - 2026-05-15<br>
-• [MCP 서버 보안: LLM이 생성한 파일 ..](https://blog.uppinote.dev/mcp-server-path-traversal-defense-llm-file-path/) - 2026-05-14<br>
-• [TypeScript로 읽기 전용 상태 표현..](https://blog.uppinote.dev/typescript-readonly-status-type-boundary-ghost-sent/) - 2026-05-13
+• [MCP 서버 보안: LLM이 생성한 파일 ..](https://blog.uppinote.dev/mcp-server-path-traversal-defense-llm-file-path/) - 2026-05-14
 <!-- blog ends -->
 
 </td>
