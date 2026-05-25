@@ -21,12 +21,12 @@ AI Engineer at a semiconductor company by day, indie hacker by night. Building A
 **Recent Posts**
 
 <!-- blog starts -->
-• [Singleton을 Per-Instance..](https://blog.uppinote.dev/typescript-per-instance-service-orphan-leak-cleanup/) - 2026-05-22<br>
-• [Obsidian 플러그인을 Multi-Da..](https://blog.uppinote.dev/obsidian-airtable-database-provider-abstraction-refactor/) - 2026-05-21<br>
-• [하나의 Obsidian Vault에서 여러..](https://blog.uppinote.dev/obsidian-plugin-multi-config-architecture-airtable/) - 2026-05-20<br>
-• [Ghost MCP v1.0.1 업데이트기:..](https://blog.uppinote.dev/ghost-mcp-v1-0-1-update-prototype-to-oss/) - 2026-05-19<br>
-• [양방향 링크 시스템을 테스트 커버리지에 확..](https://blog.uppinote.dev/bidirectional-link-test-coverage-tested-covers-marker/) - 2026-05-18<br>
-• [마크다운 3포맷 자동 감지 파서 설계: l..](https://blog.uppinote.dev/markdown-multi-format-auto-detection-parser-design/) - 2026-05-15
+• [E2E 스위트가 하나로 부족해진 날: Ob..](https://uppinote.dev/blog/obsidian-plugin-dual-e2e-suite-shared-cdp-helpers/) - 2026-05-25<br>
+• [Singleton을 Per-Instance..](https://uppinote.dev/blog/typescript-per-instance-service-orphan-leak-cleanup/) - 2026-05-22<br>
+• [Obsidian 플러그인을 Multi-Da..](https://uppinote.dev/blog/obsidian-airtable-database-provider-abstraction-refactor/) - 2026-05-21<br>
+• [하나의 Obsidian Vault에서 여러..](https://uppinote.dev/blog/obsidian-plugin-multi-config-architecture-airtable/) - 2026-05-20<br>
+• [Ghost MCP v1.0.1 업데이트기:..](https://uppinote.dev/blog/ghost-mcp-v1-0-1-update-prototype-to-oss/) - 2026-05-19<br>
+• [양방향 링크 시스템을 테스트 커버리지에 확..](https://uppinote.dev/blog/bidirectional-link-test-coverage-tested-covers-marker/) - 2026-05-18
 <!-- blog ends -->
 
 </td>
