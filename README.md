@@ -21,12 +21,12 @@ AI Engineer at a semiconductor company by day, indie hacker by night. Building A
 **Recent Posts**
 
 <!-- blog starts -->
+• [머지와 배포 분리하기: main push ..](https://uppinote.dev/blog/decouple-merge-from-deploy-tag-push-production-trigger/) - 2026-06-11<br>
 • [Subscription 모델링: 왜 pla..](https://uppinote.dev/blog/subscription-trial-plan-id-separation-pattern/) - 2026-06-10<br>
 • [분산 트랜잭션이 없을 때: Payment ..](https://uppinote.dev/blog/distributed-transaction-cancel-failed-rollback-pattern/) - 2026-06-09<br>
 • [스케줄 결제의 숨겨진 덫: PENDING ..](https://uppinote.dev/blog/portone-v2-pending-invoice-pre-creation/) - 2026-06-08<br>
 • [OAuth와 이메일 가입을 하나의 온보딩 ..](https://uppinote.dev/blog/unified-onboarding-oauth-email-signup/) - 2026-06-05<br>
-• [NextAuth v5 JWT 콜백: OAu..](https://uppinote.dev/blog/nextauth-v5-jwt-callback-oauth-credentials-branching/) - 2026-06-04<br>
-• [NextAuth PrismaAdapter ..](https://uppinote.dev/blog/nextauth-prisma-adapter-encrypted-email-blind-index/) - 2026-06-03
+• [NextAuth v5 JWT 콜백: OAu..](https://uppinote.dev/blog/nextauth-v5-jwt-callback-oauth-credentials-branching/) - 2026-06-04
 <!-- blog ends -->
 
 </td>
