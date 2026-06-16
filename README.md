@@ -21,12 +21,12 @@ AI Engineer at a semiconductor company by day, indie hacker by night. Building A
 **Recent Posts**
 
 <!-- blog starts -->
+• [단일 크롬 확장에서 멀티테넌트 구현하기: ..](https://uppinote.dev/blog/chrome-extension-multi-tenant-space-isolation-pattern/) - 2026-06-16<br>
 • [Hono + Cloudflare Worke..](https://uppinote.dev/blog/cloudflare-workers-hono-d1-license-server-lemon-squeezy/) - 2026-06-15<br>
 • [크롬 확장에 위장 공간 만들기: AES-G..](https://uppinote.dev/blog/chrome-extension-decoy-space-plausible-deniability/) - 2026-06-12<br>
 • [머지와 배포 분리하기: main push ..](https://uppinote.dev/blog/decouple-merge-from-deploy-tag-push-production-trigger/) - 2026-06-11<br>
 • [Subscription 모델링: 왜 pla..](https://uppinote.dev/blog/subscription-trial-plan-id-separation-pattern/) - 2026-06-10<br>
-• [분산 트랜잭션이 없을 때: Payment ..](https://uppinote.dev/blog/distributed-transaction-cancel-failed-rollback-pattern/) - 2026-06-09<br>
-• [스케줄 결제의 숨겨진 덫: PENDING ..](https://uppinote.dev/blog/portone-v2-pending-invoice-pre-creation/) - 2026-06-08
+• [분산 트랜잭션이 없을 때: Payment ..](https://uppinote.dev/blog/distributed-transaction-cancel-failed-rollback-pattern/) - 2026-06-09
 <!-- blog ends -->
 
 </td>
