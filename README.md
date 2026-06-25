@@ -21,12 +21,12 @@ AI Engineer at a semiconductor company by day, indie hacker by night. Building A
 **Recent Posts**
 
 <!-- blog starts -->
+• [조용한 ML 버그: train과 val이 ..](https://uppinote.dev/blog/yolo-train-val-same-directory-silent-metric-bug/) - 2026-06-25<br>
 • [Python/SQLAlchemy N+1 쿼..](https://uppinote.dev/blog/python-sqlalchemy-n1-query-optimization-image-labeling-platform/) - 2026-06-24<br>
 • [Flask에서 ML 학습 백그라운드 실행:..](https://uppinote.dev/blog/flask-ml-training-threading-to-processpoolexecutor/) - 2026-06-23<br>
 • [JSON 파일 데이터베이스에서 Postgr..](https://uppinote.dev/blog/flask-sqlalchemy-json-to-postgresql-service-layer-migration/) - 2026-06-22<br>
 • [1,932줄 app.py를 54줄로: 모놀..](https://uppinote.dev/blog/flask-monolithic-app-py-blueprint-decomposition-refactoring/) - 2026-06-19<br>
-• [양방향 링크 시스템 회고: 프로젝트 스케일..](https://uppinote.dev/blog/bidirectional-link-system-scale-driven-tooling-decisions/) - 2026-06-18<br>
-• [코드에 박힌 매직 넘버가 버그가 되는 순간..](https://uppinote.dev/blog/magic-number-limit-refactoring-max-recent/) - 2026-06-17
+• [양방향 링크 시스템 회고: 프로젝트 스케일..](https://uppinote.dev/blog/bidirectional-link-system-scale-driven-tooling-decisions/) - 2026-06-18
 <!-- blog ends -->
 
 </td>
