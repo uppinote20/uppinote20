@@ -21,12 +21,12 @@ AI Engineer at a semiconductor company by day, indie hacker by night. Building A
 **Recent Posts**
 
 <!-- blog starts -->
+• [Ghost MCP로 134개 글 일괄 메타..](https://uppinote.dev/blog/ghost-mcp-bulk-orchestration-slug-id-mapping/) - 2026-07-07<br>
 • [134개 블로그 이미지를 0 Claude ..](https://uppinote.dev/blog/claude-codex-multi-agent-image-pipeline-134-posts/) - 2026-07-06<br>
 • [폴더별 GitHub 계정 분리: SSH 호..](https://uppinote.dev/blog/github-multi-account-folder-ssh-includeif/) - 2026-07-03<br>
 • [`gh repo star`는 존재하지 않습..](https://uppinote.dev/blog/gh-repo-star-subcommand-pitfall-cli-automation/) - 2026-07-02<br>
 • [작지만 기억할 만한 네 가지: Alembi..](https://uppinote.dev/blog/flask-project-small-lessons-alembic-simulation-ruff-status-mismatch/) - 2026-07-01<br>
-• [Rate Limiting을 걷어낸 날: 폐..](https://uppinote.dev/blog/rate-limiting-removed-closed-network-security-context/) - 2026-06-30<br>
-• [서버 기동을 거부시키는 설정 검증과 Pat..](https://uppinote.dev/blog/flask-fail-fast-cors-path-traversal-defense/) - 2026-06-29
+• [Rate Limiting을 걷어낸 날: 폐..](https://uppinote.dev/blog/rate-limiting-removed-closed-network-security-context/) - 2026-06-30
 <!-- blog ends -->
 
 </td>
