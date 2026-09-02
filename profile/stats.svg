@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">uppinote's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 587, Total Commits  : 7512, Total PRs: 856, Total Issues: 1281, Contributed to (last year): 16</desc>
+        <desc id="descId">Total Stars Earned: 587, Total Commits  : 7543, Total PRs: 862, Total Issues: 1282, Contributed to (last year): 16</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 16.186878040877005;
+        stroke-dashoffset: 16.181964396482705;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >856</text>
+      >862</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
