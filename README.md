@@ -22,12 +22,12 @@ AI Engineer at a semiconductor company by day, indie hacker by night. Building A
 **Recent Posts**
 
 <!-- blog starts -->
+• [iOS 공유 확장 시트 높이 줄이기: de..](https://uppinote.dev/blog/ios-share-extension-compact-sheet-fullscreen-presentation/) - 2026-10-19<br>
 • [codex `/imagen`에 한글 헤드라..](https://uppinote.dev/blog/codex-imagen-content-grounded-brand-spec/) - 2026-07-08<br>
 • [Ghost MCP로 134개 글 일괄 메타..](https://uppinote.dev/blog/ghost-mcp-bulk-orchestration-slug-id-mapping/) - 2026-07-07<br>
 • [134개 블로그 이미지를 0 Claude ..](https://uppinote.dev/blog/claude-codex-multi-agent-image-pipeline-134-posts/) - 2026-07-06<br>
 • [폴더별 GitHub 계정 분리: SSH 호..](https://uppinote.dev/blog/github-multi-account-folder-ssh-includeif/) - 2026-07-03<br>
-• [`gh repo star`는 존재하지 않습..](https://uppinote.dev/blog/gh-repo-star-subcommand-pitfall-cli-automation/) - 2026-07-02<br>
-• [작지만 기억할 만한 네 가지: Alembi..](https://uppinote.dev/blog/flask-project-small-lessons-alembic-simulation-ruff-status-mismatch/) - 2026-07-01
+• [`gh repo star`는 존재하지 않습..](https://uppinote.dev/blog/gh-repo-star-subcommand-pitfall-cli-automation/) - 2026-07-02
 <!-- blog ends -->
 
 </td>
