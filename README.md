@@ -9,9 +9,9 @@ AI Engineer at a semiconductor company by day, indie hacker by night. Building A
 **Latest Releases**
 
 <!-- releases starts -->
+• [obsidian-auto-note-importer 1.3.0](https://github.com/uppinote20/obsidian-auto-note-importer/releases/tag/1.3.0) - 2026-11-09<br>
 • [claude-dashboard v1.36.0](https://github.com/uppinote20/claude-dashboard/releases/tag/v1.36.0) - 2026-11-04<br>
 • [claude-pets v0.3.0](https://github.com/uppinote20/claude-pets/releases/tag/v0.3.0) - 2026-10-04<br>
-• [obsidian-auto-note-importer 1.2.0](https://github.com/uppinote20/obsidian-auto-note-importer/releases/tag/1.2.0) - 2026-08-19<br>
 • [ghost-mcp v1.4.0](https://github.com/uppinote20/ghost-mcp/releases/tag/v1.4.0) - 2026-06-14<br>
 • [duru v0.5.0](https://github.com/uppinote20/duru/releases/tag/v0.5.0) - 2026-05-20
 <!-- releases ends -->
@@ -22,12 +22,12 @@ AI Engineer at a semiconductor company by day, indie hacker by night. Building A
 **Recent Posts**
 
 <!-- blog starts -->
+• [ITSAppUsesNonExemptEncr..](https://uppinote.dev/blog/app-store-encryption-export-compliance-ear-france-anssi/) - 2026-11-09<br>
 • [cloud-init에서 Tailscale ..](https://uppinote.dev/blog/cloud-init-tailscale-apt-lock-iptables-restore/) - 2026-11-02<br>
 • [맥 IPinside 완전 삭제: 앱·데몬·..](https://uppinote.dev/blog/macos-ipinside-uninstall-interezen-root-ca/) - 2026-10-26<br>
 • [iOS 공유 확장 시트 높이 줄이기: de..](https://uppinote.dev/blog/ios-share-extension-compact-sheet-fullscreen-presentation/) - 2026-10-19<br>
 • [codex `/imagen`에 한글 헤드라..](https://uppinote.dev/blog/codex-imagen-content-grounded-brand-spec/) - 2026-07-08<br>
-• [Ghost MCP로 134개 글 일괄 메타..](https://uppinote.dev/blog/ghost-mcp-bulk-orchestration-slug-id-mapping/) - 2026-07-07<br>
-• [134개 블로그 이미지를 0 Claude ..](https://uppinote.dev/blog/claude-codex-multi-agent-image-pipeline-134-posts/) - 2026-07-06
+• [Ghost MCP로 134개 글 일괄 메타..](https://uppinote.dev/blog/ghost-mcp-bulk-orchestration-slug-id-mapping/) - 2026-07-07
 <!-- blog ends -->
 
 </td>
