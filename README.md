@@ -22,12 +22,12 @@ AI Engineer at a semiconductor company by day, indie hacker by night. Building A
 **Recent Posts**
 
 <!-- blog starts -->
+• [Cloudflare Email Routin..](https://uppinote.dev/blog/cloudflare-email-routing-gmail-send-as-smtp-dmarc/) - 2026-11-16<br>
 • [ITSAppUsesNonExemptEncr..](https://uppinote.dev/blog/app-store-encryption-export-compliance-ear-france-anssi/) - 2026-11-09<br>
 • [cloud-init에서 Tailscale ..](https://uppinote.dev/blog/cloud-init-tailscale-apt-lock-iptables-restore/) - 2026-11-02<br>
 • [맥 IPinside 완전 삭제: 앱·데몬·..](https://uppinote.dev/blog/macos-ipinside-uninstall-interezen-root-ca/) - 2026-10-26<br>
 • [iOS 공유 확장 시트 높이 줄이기: de..](https://uppinote.dev/blog/ios-share-extension-compact-sheet-fullscreen-presentation/) - 2026-10-19<br>
-• [codex `/imagen`에 한글 헤드라..](https://uppinote.dev/blog/codex-imagen-content-grounded-brand-spec/) - 2026-07-08<br>
-• [Ghost MCP로 134개 글 일괄 메타..](https://uppinote.dev/blog/ghost-mcp-bulk-orchestration-slug-id-mapping/) - 2026-07-07
+• [codex `/imagen`에 한글 헤드라..](https://uppinote.dev/blog/codex-imagen-content-grounded-brand-spec/) - 2026-07-08
 <!-- blog ends -->
 
 </td>
